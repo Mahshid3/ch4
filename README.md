@@ -1,10 +1,10 @@
 # ch4
 import java.util.Scanner;
 
-public class StudentGrading {
+public class StudentAve {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Static scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of grades: ");
         int numGrades = scanner.nextInt();
